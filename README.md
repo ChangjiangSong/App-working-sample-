@@ -11,7 +11,8 @@ Mainly responsible for the data analysis job in the Northeastern university Data
 rate, and user interactivity for Hub App.
 • Consulted for Hub App with a team of data-oriented students to deliver insight on application functionality, UI/UX design.
 
-## Dashboard Sample link
+## Dashboard Sample link (Apps'performance overview)
   https://public.tableau.com/app/profile/songchangjiang/viz/AppOverviewforUsersPerformance/AppDashboard
 ## MySQL code sample for user segmentation
-The sample query code with MySQL have attached above.
+The sample query code with MySQL have attached above. This is about the sql query for one of the user segmentation we analyzed for the app, which is "trouble attempts" users. 
+Definition: These users are the users who login multiple times and have at least one sent invitation action but actually have not sent any invitation at all. (Tech issue or other issue)
