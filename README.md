@@ -1,4 +1,4 @@
-# App-working-sample-
+# App-working-sample
 Data Research Analyst - **DATA Initiative Analytics Research Lab,** Boston
 
 ## Job description 
